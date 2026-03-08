@@ -1,0 +1,14 @@
+credentials:
+  usernames:
+    director:
+      email: director@msk-oncologia.es
+      name: Director MSK
+      password: $2b$12$DPSYSvZhcaCzG.MpvY6AVeDRde8Eht/dTW3WI07dY7D.ZgnSapmS6
+
+cookie:
+  expiry_days: 30
+  key: msk_oncologia_2024_secret_key
+  name: msk_auth_cookie
+
+preauthorized:
+  emails: []
